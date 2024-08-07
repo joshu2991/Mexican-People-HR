@@ -25,6 +25,13 @@ Mexican People HR is a powerful HR management platform built with Laravel 10, de
 
 <h2>Technical Skills Demonstrated</h2>
 <strong>API Integration:</strong> Experience integrating third-party services and APIs to extend application functionality.
+
 <strong>Role Management:</strong> Implemented complex user roles and permissions to tailor user experiences and access control.
+
 <strong>Payment Processing:</strong> Configured Stripe for handling transactions, showcasing my ability to manage financial components.
+
 <strong>Dynamic Content Generation:</strong> Leveraged AI (ChatGPT) to automate content creation, illustrating skills in integrating AI tools.
+
+<h2>Explore MP One Plus</h2>
+
+For a deeper dive into the project and its features, visit the [project page](https://mexicanpeoplehr.com)
