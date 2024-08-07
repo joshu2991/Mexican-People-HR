@@ -32,6 +32,6 @@ Mexican People HR is a powerful HR management platform built with Laravel 10, de
 
 <strong>Dynamic Content Generation:</strong> Leveraged AI (ChatGPT) to automate content creation, illustrating skills in integrating AI tools.
 
-<h2>Explore MP One Plus</h2>
+<h2>Explore Mexican People HR</h2>
 
 For a deeper dive into the project and its features, visit the [project page](https://mexicanpeoplehr.com)
